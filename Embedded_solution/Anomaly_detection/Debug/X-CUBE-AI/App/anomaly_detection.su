@@ -1,0 +1,9 @@
+anomaly_detection.c:547:9:anomaly_detection_configure_activations	24	static
+anomaly_detection.c:586:9:anomaly_detection_configure_weights	24	static
+anomaly_detection.c:637:9:ai_anomaly_detection_get_info	136	static
+anomaly_detection.c:684:10:ai_anomaly_detection_get_error	16	static
+anomaly_detection.c:690:10:ai_anomaly_detection_create	24	static
+anomaly_detection.c:700:11:ai_anomaly_detection_destroy	16	static
+anomaly_detection.c:706:9:ai_anomaly_detection_init	24	static
+anomaly_detection.c:723:8:ai_anomaly_detection_run	24	static
+anomaly_detection.c:730:8:ai_anomaly_detection_forward	16	static
